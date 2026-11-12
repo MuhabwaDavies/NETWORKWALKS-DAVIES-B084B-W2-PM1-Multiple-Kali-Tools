@@ -74,7 +74,40 @@ After completing the scan, I opened the Topology section in Zenmap, enabled the 
 Note: The actual subnet, number of hosts and addresses should be replaced with the results from my own network when submitting the report.
 
 
+
 ## 5. Evidence Collected
+
+### 5.1 Footprinting & Reconnaissance
+
+**WHOIS Lookup**
+![WHOIS Results](./WHOIS%201.png)
+
+**WhatWeb Results**
+![WhatWeb Results](./WHATWEB%20Results.png)
+
+**Nslookup Results**
+![Nslookup Results](./NSLOOKUP.png)
+
+**DNSRecon Results**
+![DNSRecon Results](./DNS%20RECON%20.png)
+
+**Wafw00f Results**
+![Wafw00f Results](./Wafw00f%20Results.png)
+
+**Curl Results**
+![Curl Results](./CURL%20Results.png)
+
+### 5.2 Network Scanning with Zenmap
+
+**Ping Scan**
+![Ping Scan](./ping%20scan%202.png)
+
+**Quick Scan**
+![Quick Scan](./quick%20scan%202.png)
+
+**Network Topology**
+![Network Topology](./topology%202.png)
+
 
 
 
